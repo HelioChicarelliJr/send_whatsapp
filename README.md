@@ -1,5 +1,5 @@
 # send_whatsapp
-Envia mensagem para uma lista de contatos.
+Envia mensagem para uma lista de contatos pré definida.
 
 INSTALAR AS BIBLIOTECAS.
 
